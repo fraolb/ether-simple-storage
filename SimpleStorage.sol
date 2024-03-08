@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.8; // this is older version
+pragma solidity ^0.8.7; // this is older version
 
 //EVM ethereum virtual machin
 //avalanche, fantom, polygon
